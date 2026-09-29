@@ -82,7 +82,7 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 | Quiz 1 (Lecture) | 9/10 | Thu | Week 1 & 2 slides |
 | Quiz 2 (Lecture) | 9/24 | Thu | Slides 09/08, 09/10, 09/15, 09/17 |
 | Quiz 3 (Lecture) | 10/8 | Thu | Slides 09/17, 09/22, 09/29, 10/01 |
-| **Midterm** | 10/15 | Thu | |
+| **Midterm** | 10/15 | Thu | Everything up to 10/15 |
 | Quiz 4 (Lecture) | 11/5 | Thu | |
 | Quiz 5 (Lecture) | 11/19 | Thu | |
 | **Final** | 12/15 | Tue | |

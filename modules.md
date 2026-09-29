@@ -48,6 +48,9 @@ description: Course schedule and modules for CS 3212.
 - Restoring height balance invariants using structural rotations in AVL Trees
 
 ### Advanced Search Structures: Multiway & Self-Adjusting Trees
+
+**Slides:** [Sep 29](../assets/slides/Week6_Zirikly_20260929_website.pdf)
+
 - Multiway search trees (B-Trees and B+ Trees) used in database disk storage
 - Self-adjusting binary search trees (Splay Trees)
 - Introduction to amortized analysis (evaluating the average cost of operations over time)

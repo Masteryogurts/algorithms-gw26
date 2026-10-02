@@ -49,7 +49,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Advanced Search Structures: Multiway & Self-Adjusting Trees
 
-**Slides:** [Sep 29](../assets/slides/Week6_Zirikly_20260929_website.pdf)
+**Slides:** [Sep 29](../assets/slides/Week6_Zirikly_20260929_website.pdf) · [Oct 1](../assets/slides/Zirikly_20261001_website.pdf)
 
 - Multiway search trees (B-Trees and B+ Trees) used in database disk storage
 - Self-adjusting binary search trees (Splay Trees)
